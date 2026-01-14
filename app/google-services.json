@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711793490050",
+    "project_id": "appcustos-12024",
+    "storage_bucket": "appcustos-12024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711793490050:android:7c00a2c2c7c31a8a119c9b",
+        "android_client_info": {
+          "package_name": "com.example.appcustos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICT445qzuBDMWXqeHo7C98yAlq_l7i48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
